@@ -18,7 +18,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Andrey Verzin 2022</Slogan>
+          <Slogan>Andrey Verzin 2023</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://www.linkedin.com/in/avfrontender">
